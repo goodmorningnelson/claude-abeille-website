@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn how to netlify baby !
+            Learn how to netlify !
           </a>
         </header>
       </div>
